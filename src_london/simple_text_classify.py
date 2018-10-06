@@ -108,5 +108,5 @@ if __name__ == '__main__':
     tfmodel.model()
     tfmodel._compile()
     tfmodel.train()
-
+    tf.feature_column.embedding_column
     pass
