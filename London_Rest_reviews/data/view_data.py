@@ -1,3 +1,4 @@
+#spit data into train and eval
 from collections import defaultdict
 import pandas as pd
 from sklearn.utils import shuffle
