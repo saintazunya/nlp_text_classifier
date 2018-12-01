@@ -24,7 +24,7 @@ changedict={str(x):str(x) for x in range(1,6)}
 changedict=defaultdict(lambda : None,changedict)
 changedictmapping=lambda x : changedict[x[0]] if isinstance(x,str) else None
 # tokenlize and only maintain the vords in Glove.
-model=loadGlovetoken('/home/zcf/Documents/Graduate/NLP/glove.twitter.27B.200d.txt')
+model=loadGlovetoken('/home/zcf/Documents/Graduate/NLP/glove.twitter.27B.50d.txt')
 pickle.dump(model,open('tokenlst.pkl','wb'))
 with open(file,'r') as csvfile, open('processed_text_data.csv','w') as outfile:
     reader = csv.reader(csvfile)
