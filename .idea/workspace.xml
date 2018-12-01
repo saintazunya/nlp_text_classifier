@@ -2,26 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="69fc4a76-622a-45c7-87f9-08b4e4d540e8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/get_padded_sqeuence_for_language_model.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src_london/task1/simple_text_classify.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src_london/task2/text_classifier_with_pre_trained_embedding.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src_london/task3/classify_rnn.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src_london/task4/language_model_rnn.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_embedding_loading.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/londonreview_eval.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/londonreview_train.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/pre_process_tokenlize.py" beforeDir="false" afterPath="$PROJECT_DIR$/data/pre_process_tokenlize.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/processed_text_data.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/processed_text_data.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/tokenlst.pkl" beforeDir="false" afterPath="$PROJECT_DIR$/data/tokenlst.pkl" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/view_data.py" beforeDir="false" afterPath="$PROJECT_DIR$/data/view_data.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src_london/embedding_load_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/src_london/embedding_load_test.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src_london/londonbased-restaurants-reviews-on-tripadvisor.zip" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src_london/processed_text_data.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src_london/tmp/events.out.tfevents.1538842338.zcf-Lenovo-Y50-70" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tutorial_from_tf/imbd.py" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -34,7 +15,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src_london/task3/classify_rnn.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1129">
+            <state relative-caret-position="1078">
               <caret line="52" selection-start-line="52" selection-end-line="52" />
               <folding>
                 <element signature="e#0#19#0" expanded="true" />
@@ -46,7 +27,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src_london/task4/language_model_rnn.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="89">
+            <state relative-caret-position="2970">
               <caret line="136" column="39" selection-start-line="136" selection-start-column="39" selection-end-line="136" selection-end-column="39" />
             </state>
           </provider>
@@ -73,11 +54,35 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src_london/load_text_vector.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="308">
-              <caret line="14" column="61" selection-start-line="14" selection-start-column="61" selection-end-line="14" selection-end-column="61" />
+            <state relative-caret-position="352">
+              <caret line="16" selection-start-line="16" selection-end-line="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src_london/embedding_load_test.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="88">
+              <caret line="6" column="4" selection-start-line="6" selection-start-column="4" selection-end-line="6" selection-end-column="4" />
+              <folding>
+                <element signature="e#0#23#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src_london/test_embedding_loading.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="514">
+              <caret line="71" column="44" selection-start-line="71" selection-start-column="44" selection-end-line="71" selection-end-column="44" />
+              <folding>
+                <element signature="e#0#23#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -85,7 +90,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/data/get_padded_sqeuence_for_language_model.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="396">
+            <state relative-caret-position="484">
               <caret line="29" column="37" selection-start-line="29" selection-start-column="37" selection-end-line="29" selection-end-column="37" />
             </state>
           </provider>
@@ -95,7 +100,7 @@
         <entry file="file://$PROJECT_DIR$/data/pre_process_text.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="396">
-              <caret line="22" column="37" lean-forward="true" selection-start-line="22" selection-start-column="37" selection-end-line="22" selection-end-column="37" />
+              <caret line="22" column="37" selection-start-line="22" selection-start-column="37" selection-end-line="22" selection-end-column="37" />
             </state>
           </provider>
         </entry>
@@ -103,8 +108,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/data/view_data.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="264">
-              <caret line="12" column="32" lean-forward="true" selection-start-line="12" selection-start-column="32" selection-end-line="12" selection-end-column="32" />
+            <state relative-caret-position="220">
+              <caret line="12" column="32" selection-start-line="12" selection-start-column="32" selection-end-line="12" selection-end-column="32" />
               <folding>
                 <element signature="e#31#66#0" expanded="true" />
               </folding>
@@ -127,6 +132,8 @@
     </findStrings>
   </component>
   <component name="Git.Settings">
+    <option name="UPDATE_CHANGES_POLICY" value="SHELVE" />
+    <option name="UPDATE_TYPE" value="MERGE" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
@@ -161,6 +168,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -171,24 +179,12 @@
             <path>
               <item name="London_Rest_reviews" type="b2602c69:ProjectViewProjectNode" />
               <item name="London_Rest_reviews" type="462c0819:PsiDirectoryNode" />
-              <item name="data" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="London_Rest_reviews" type="b2602c69:ProjectViewProjectNode" />
-              <item name="London_Rest_reviews" type="462c0819:PsiDirectoryNode" />
-              <item name="data" type="462c0819:PsiDirectoryNode" />
-              <item name="lm" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="London_Rest_reviews" type="b2602c69:ProjectViewProjectNode" />
-              <item name="London_Rest_reviews" type="462c0819:PsiDirectoryNode" />
               <item name="src_london" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -323,11 +319,11 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.text_classifier_with_pre_trained_embedding" />
       <item itemvalue="Python.classify_rnn (1)" />
-      <item itemvalue="Python.language_model_rnn" />
-      <item itemvalue="Python.language_model_rnn (1)" />
       <item itemvalue="Python.classify_rnn" />
+      <item itemvalue="Python.language_model_rnn (1)" />
+      <item itemvalue="Python.language_model_rnn" />
+      <item itemvalue="Python.text_classifier_with_pre_trained_embedding" />
     </list>
     <recent_temporary>
       <list>
@@ -358,6 +354,7 @@
       <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.77067083" visible="true" weight="0.25272927" />
       <window_info id="Structure" order="1" sideWeight="0.22932917" side_tool="true" weight="0.2489083" />
       <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3291536" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.3291536" />
@@ -365,9 +362,9 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Version Control" order="7" sideWeight="0.49945414" visible="true" weight="0.3291536" />
       <window_info anchor="bottom" id="Terminal" order="8" />
-      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50054586" side_tool="true" weight="0.23824452" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50054586" side_tool="true" visible="true" weight="0.3291536" />
       <window_info anchor="bottom" id="Python Console" order="10" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -545,13 +542,7 @@ sess.run(init_l)</expression-string>
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/view_data.py" />
-    <entry file="file://$PROJECT_DIR$/tutorial_from_tf/imbd.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="154">
-          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/tutorial_from_tf/imbd.py" />
     <entry file="file://$USER_HOME$/.conda/envs/tensorflow/lib/python3.5/site-packages/tensorflow/python/ops/array_ops.py" />
     <entry file="file://$USER_HOME$/.conda/envs/tensorflow/lib/python3.6/site-packages/tensorflow/python/feature_column/feature_column.py">
       <provider selected="true" editor-type-id="text-editor">
@@ -581,27 +572,9 @@ sess.run(init_l)</expression-string>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/data/londonreview_train.csv">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="852">
-          <caret line="117" column="31" selection-start-line="117" selection-start-column="31" selection-end-line="117" selection-end-column="31" />
-        </state>
-      </provider>
-      <provider editor-type-id="LargeFileEditor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test_embedding_loading.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="660">
-          <caret line="33" column="4" selection-start-line="33" selection-start-column="4" selection-end-line="33" selection-end-column="4" />
-          <folding>
-            <element signature="e#0#23#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src_london/processed_text_data.csv">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/data/londonreview_train.csv" />
+    <entry file="file://$PROJECT_DIR$/test_embedding_loading.py" />
+    <entry file="file://$PROJECT_DIR$/src_london/processed_text_data.csv" />
     <entry file="file://$PROJECT_DIR$/data/processed_language_model_data.csv">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="506">
@@ -613,13 +586,7 @@ sess.run(init_l)</expression-string>
     <entry file="file://$PROJECT_DIR$/data/processed_text_data.csv">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src_london/task2/language_model_rnn.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2970">
-          <caret line="136" column="9" selection-start-line="136" selection-start-column="9" selection-end-line="136" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src_london/task2/language_model_rnn.py" />
     <entry file="file://$PROJECT_DIR$/src_london/task1/simple_text_classify.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="543">
@@ -627,13 +594,7 @@ sess.run(init_l)</expression-string>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/data/regression/londonreview_eval_backup.csv">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="12" column="35" selection-end-line="5165" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/data/regression/londonreview_eval_backup.csv" />
     <entry file="file://$PROJECT_DIR$/data/regression/londonreview_eval.csv">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="207">
@@ -658,24 +619,8 @@ sess.run(init_l)</expression-string>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/data/londonreview_eval.csv">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="308">
-          <caret line="14" column="36" selection-start-line="14" selection-start-column="36" selection-end-line="14" selection-end-column="36" />
-        </state>
-      </provider>
-      <provider editor-type-id="LargeFileEditor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src_london/classify_rnn.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="422">
-          <caret line="114" column="26" selection-start-line="114" selection-start-column="26" selection-end-line="114" selection-end-column="26" />
-          <folding>
-            <element signature="e#0#19#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/data/londonreview_eval.csv" />
+    <entry file="file://$PROJECT_DIR$/src_london/classify_rnn.py" />
     <entry file="file://$PROJECT_DIR$/data/lm/londonreview_eval.csv">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -686,19 +631,10 @@ sess.run(init_l)</expression-string>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src_london/language_model_rnn.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-139">
-          <caret line="91" column="54" lean-forward="true" selection-start-line="91" selection-start-column="54" selection-end-line="91" selection-end-column="54" />
-          <folding>
-            <element signature="e#0#23#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src_london/language_model_rnn.py" />
     <entry file="file://$PROJECT_DIR$/src_london/task3/classify_rnn.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1129">
+        <state relative-caret-position="1078">
           <caret line="52" selection-start-line="52" selection-end-line="52" />
           <folding>
             <element signature="e#0#19#0" expanded="true" />
@@ -708,15 +644,15 @@ sess.run(init_l)</expression-string>
     </entry>
     <entry file="file://$PROJECT_DIR$/src_london/task4/language_model_rnn.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="89">
+        <state relative-caret-position="2970">
           <caret line="136" column="39" selection-start-line="136" selection-start-column="39" selection-end-line="136" selection-end-column="39" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/data/view_data.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="12" column="32" lean-forward="true" selection-start-line="12" selection-start-column="32" selection-end-line="12" selection-end-column="32" />
+        <state relative-caret-position="220">
+          <caret line="12" column="32" selection-start-line="12" selection-start-column="32" selection-end-line="12" selection-end-column="32" />
           <folding>
             <element signature="e#31#66#0" expanded="true" />
           </folding>
@@ -726,7 +662,7 @@ sess.run(init_l)</expression-string>
     <entry file="file://$PROJECT_DIR$/data/pre_process_text.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="396">
-          <caret line="22" column="37" lean-forward="true" selection-start-line="22" selection-start-column="37" selection-end-line="22" selection-end-column="37" />
+          <caret line="22" column="37" selection-start-line="22" selection-start-column="37" selection-end-line="22" selection-end-column="37" />
         </state>
       </provider>
     </entry>
@@ -739,7 +675,7 @@ sess.run(init_l)</expression-string>
     </entry>
     <entry file="file://$PROJECT_DIR$/data/get_padded_sqeuence_for_language_model.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="396">
+        <state relative-caret-position="484">
           <caret line="29" column="37" selection-start-line="29" selection-start-column="37" selection-end-line="29" selection-end-column="37" />
         </state>
       </provider>
@@ -756,8 +692,8 @@ sess.run(init_l)</expression-string>
     </entry>
     <entry file="file://$PROJECT_DIR$/src_london/embedding_load_test.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="132">
-          <caret line="6" column="4" lean-forward="true" selection-start-line="6" selection-start-column="4" selection-end-line="6" selection-end-column="4" />
+        <state relative-caret-position="88">
+          <caret line="6" column="4" selection-start-line="6" selection-start-column="4" selection-end-line="6" selection-end-column="4" />
           <folding>
             <element signature="e#0#23#0" expanded="true" />
           </folding>
@@ -774,20 +710,11 @@ sess.run(init_l)</expression-string>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="528">
-          <caret line="24" column="20" lean-forward="true" selection-start-line="24" selection-start-column="20" selection-end-line="24" selection-end-column="20" />
-          <folding>
-            <element signature="e#0#18#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/test.py" />
     <entry file="file://$PROJECT_DIR$/src_london/load_text_vector.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="308">
-          <caret line="14" column="61" selection-start-line="14" selection-start-column="61" selection-end-line="14" selection-end-column="61" />
+        <state relative-caret-position="352">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
         </state>
       </provider>
     </entry>
